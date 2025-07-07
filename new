@@ -1,0 +1,2 @@
+with open('/Users/tobyhallett/Desktop/folded_structure_complex2.pdb') as f:
+    print(f.read())  # Print first 500 characters
